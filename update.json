@@ -1,20 +1,18 @@
 
 {
   "id": "than_tang_van_gioi",
-  "version": "1.7.3-beta",
+  "version": "1.7.4-beta",
   "api_version": 1,
   "channel": "beta",
-  "download_url": "https://github.com/anhvubidien/ThanTangVanGioi/releases/download/v1.7.3-beta/than_tang_van_gioi_v173_beta_can_bang.zip",
-  "release_url": "https://github.com/anhvubidien/ThanTangVanGioi/releases/tag/v1.7.3-beta",
+  "download_url": "https://github.com/anhvubidien/ThanTangVanGioi/releases/download/v1.7.4-beta/than_tang_van_gioi_v174_beta_update.zip",
+  "release_url": "https://github.com/anhvubidien/ThanTangVanGioi/releases/tag/v1.7.4-beta",
   "force_update": false,
   "changelog": [
-    "Cân bằng tỷ lệ thu thập Ngự Linh.",
-    "Tăng tỷ lệ xuất hiện Cổ Trùng.",
-    "Tăng tỷ lệ xuất hiện Quỷ Hồn.",
-    "Tăng tỷ lệ nhận trứng Dị Thú.",
-    "Cân bằng Thần Tàng Thương Hội.",
-    "Tối ưu dung lượng hình ảnh.",
-    "Tối ưu giao diện PC và Mobile.",
-    "Loại bỏ chức năng Admin Test."
+    "Bổ sung Trung Tâm Cập Nhật.",
+    "Tự động kiểm tra phiên bản qua GitHub.",
+    "Kiểm tra định kỳ mỗi 6 giờ.",
+    "Thông báo khi có phiên bản mới.",
+    "Hỗ trợ tải bản cập nhật.",
+    "Giữ nguyên gameplay và cân bằng V173."
   ]
 }
